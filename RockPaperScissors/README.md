@@ -22,8 +22,3 @@ This is a **C# console game** implemented using **Object-Oriented Programming (O
 3. Choose ROCK, PAPER, or SCISSORS.
 4. See the results against the computer.
 5. Optionally play multiple rounds.
-
-## Usage
-
-```bash
-dotnet run
